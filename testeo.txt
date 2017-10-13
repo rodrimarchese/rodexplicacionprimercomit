@@ -1,0 +1,23 @@
+Ejercicio 1
+1-
+.Cajero emitir factura
+.Cobro al cliente
+
+
+5-
+habría que modificar cada objeto(vouchers, electrodoméstios y alimentos) y cambiarle el precio que tienen por defecto.
+No, no usaría otro.(por lo menos, ahora no se me ocurre otro).
+
+Ejercicio 3
+
+a.m1()=0
+a.m2()=1
+a.m3()=0
+
+b.m1()=7
+b.m2()=1
+b.m3()=7
+
+c.m1()=14
+c.m2()=1
+c.m3()=1
